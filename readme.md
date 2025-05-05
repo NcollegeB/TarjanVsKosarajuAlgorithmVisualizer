@@ -46,7 +46,7 @@ dotnet run
 ## Running the published Build
 
 1.  **Navigate to the publish output folder:**
-    `DijkstraVsKosaraju/bin/Release/net8.0/osx-x64/publish` folder in which your executable resides.
+    `DijkstraVsKosaraju/bin/Release/net8.0/your_operating_system/publish` folder in which your executable resides.
 
 2.  **Launch the executable**
     - Windows: Double click the .exe
