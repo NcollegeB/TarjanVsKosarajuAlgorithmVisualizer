@@ -55,3 +55,10 @@ dotnet run
 Note:
 Ensure the `Content/` folder (with your `.xnb` assets) is present alongside the executable. This is crucial for text loading.
 
+# Pictures:
+![Tarjan Demo](images/sc1.png)
+
+![Demo](images/sc2.png)
+
+![Demo](images/sc3.png)
+
