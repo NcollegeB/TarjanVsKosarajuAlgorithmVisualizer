@@ -54,3 +54,4 @@ dotnet run
 
 Note:
 Ensure the `Content/` folder (with your `.xnb` assets) is present alongside the executable. This is crucial for text loading.
+
