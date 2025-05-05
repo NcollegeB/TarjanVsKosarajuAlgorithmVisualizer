@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/nathanbryant/Documents/411Project/DijkstraVsKosaraju/DijkstraVsKosaraju/Content/DefaultFont.spritefont</SourceFile>
+  <SourceTime>2025-05-03T16:00:17.6198284-07:00</SourceTime>
+  <DestFile>/Users/nathanbryant/Documents/411Project/DijkstraVsKosaraju/DijkstraVsKosaraju/Content/bin/DesktopGL/Content/DefaultFont.xnb</DestFile>
+  <DestTime>2025-05-03T16:03:37.580407-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-04-05T03:10:54-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-04-05T03:10:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
